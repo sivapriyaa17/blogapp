@@ -26,7 +26,7 @@ export default function Home({ posts = [] }) {
   return (
     <main className="max-w-3xl mx-auto p-6">
       <h1 className="text-4xl font-bold mb-6">My Blog</h1>
-      <Link href="/create">
+      <Link href="/admin/create">
         <button className="bg-blue-600 text-white px-4 py-2 rounded mb-4">
           Create New Post
         </button>
