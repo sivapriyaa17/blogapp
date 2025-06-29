@@ -9,7 +9,7 @@
     "dependencies": {
         "axios": "^1.10.0",
         "mongoose": "^7.0.0",
-        "next": "22.x",
+        "next": "latest",
         "react": "^18.0.0",
         "react-dom": "^18.0.0",
         "react-quill": "^2.0.0"
