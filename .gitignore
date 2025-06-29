@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env.local
+.env.*
+!.env.example
+
+# Next.js build output
+.next/
+out/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
